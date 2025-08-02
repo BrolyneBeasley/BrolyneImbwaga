@@ -37,4 +37,4 @@ Welcome to my GitHub! I offer IT Services and Consulting. I help businesses impl
 
 ---
 
-*“I believe technology should empower people — my mission is to design IT solutions that are simple, scalable, and secure.”*
+*“I believe technology should empower people, my mission is to design IT solutions that are simple and secure.”*
